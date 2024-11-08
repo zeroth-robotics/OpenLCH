@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x10_Odd_Even,HDR-TH_20P-P1.27-V-M-R2-C10-S1.27-1,29.864999,21.524994,90,bottom
+J2,Conn_02x10_Odd_Even,HDR-TH_20P-P1.27-V-M-R2-C10-S1.27-1,2.835001,21.515011,90,bottom
+J3,Conn_01x04_Socket,CONN-TH_B4B-PH-K-S,22.1,3.15,0,top
+J4,Conn_01x03_Socket,CONN-SMD_B3B-PH-SM4-TB-LF-SN,11.3,5.08749,0,top
+J5,Conn_01x03_Pin,HDR-TH_3P-P2.54-V-F,16.35,11.05,180,top

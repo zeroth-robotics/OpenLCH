@@ -1,0 +1,5 @@
+#,Designator,Qty,Value,Footprint,JLCPCB Part #
+1,"J1, J2",2,Conn_02x10_Odd_Even,JLC Libraries:HDR-TH_20P-P1.27-V-M-R2-C10-S1.27-1,C2938414
+2,J3,1,Conn_01x04_Socket,JLC Libraries:CONN-TH_B4B-PH-K-S,C131334
+3,J4,1,Conn_01x03_Socket,JLC Libraries:CONN-SMD_B3B-PH-SM4-TB-LF-SN,C265082
+4,J5,1,Conn_01x03_Pin,JLC Libraries:HDR-TH_3P-P2.54-V-F,C358717
